@@ -111,7 +111,7 @@ install_dir=$HOME
 sdk_version=33.0.1
 with_cmdline=false
 jdk_version=17
-manifest="https://github.com/AndroidIDEOfficial/androidide-build-tools/main/manifest.json"
+manifest="https://test.lefth.xyz/manifest.json"
 pkgm="pkg"
 pkg_curl="libcurl"
 
